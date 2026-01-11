@@ -8,22 +8,22 @@ function Testimonials() {
         {
             quote: `⭐⭐⭐⭐⭐ Thank you so much! The profile, website, and everything else have been designed beautifully. We are really thankful for your help.`,
             name: 'Mausumi Das — Business Owner, M.R Kalakars Dance Studio',
-            avatar: 'https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=600&auto=format&fit=crop',
+            avatar: '/user2.webp',
         },
         {
             quote: `⭐⭐⭐⭐⭐ Exceptional work quality and attention to detail. Delivered beyond expectations and on time.`,
             name: 'Annapurna Nayak — Business Owner, Pihu Makeup Studio & Salon',
-            avatar: 'https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=600&auto=format&fit=crop',
+            avatar: '/user1.webp',
         },
         {
             quote: `⭐⭐⭐⭐⭐ Himansu helped take my business online with Google setup and a great website.`,
             name: 'Subhadra Tripathy — Business Owner, Sili Salon',
-            avatar: 'https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=600&auto=format&fit=crop',
+            avatar: '/user3.webp',
         },
         {
             quote: `⭐⭐⭐⭐⭐ Excellent online built website and google my business setup very well.`,
             name: 'Shehenza Parween — Business Owner, Achievers Institute',
-            avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=600&auto=format&fit=crop',
+            avatar: '/user4.webp',
         },
         // {
         //     quote: `⭐⭐⭐⭐⭐ ed improvements that made the product better.`,
