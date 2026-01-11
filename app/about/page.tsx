@@ -19,9 +19,9 @@ export default function AboutPage() {
         <Scales />
         <Heading>About me</Heading>
         <SubHeading>
-          I'm a Full-Stack Developer helping businesses establish their digital
-          presence through modern, responsive web solutions — from local
-          startups to international clients.
+          {
+            "I'm a Full-Stack Developer helping businesses establish their digital presence through modern, responsive web solutions — from local startups to international clients."
+          }
         </SubHeading>
 
         {/* travel pics here */}

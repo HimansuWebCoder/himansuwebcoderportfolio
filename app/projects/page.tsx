@@ -14,9 +14,9 @@ function ProjectPage() {
         <Scales />
         <Heading>Projects</Heading>
         <SubHeading>
-          A selection of projects I've designed and developed — helping
-          businesses establish their digital presence and connect with clients
-          effectively.
+          {
+            "A selection of projects I've designed and developed — helping businesses establish their digital presence and connect with clients effectively."
+          }
         </SubHeading>
 
         <Projects projects={projects} />

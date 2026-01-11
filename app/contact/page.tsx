@@ -17,8 +17,9 @@ export default function ContactPage() {
         <Scales />
         <Heading>Contact Me</Heading>
         <SubHeading>
-          Looking to bring your project to life? <br /> Ready to build your
-          digital presence? Let's connect and get started.
+          {
+            "Looking to bring your project to life? <br /> Ready to build your digital presence? Let's connect and get started."
+          }
         </SubHeading>
         <ContactForm />
         {/*<SocialLinks />*/}
