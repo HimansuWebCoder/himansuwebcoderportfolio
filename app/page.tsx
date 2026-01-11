@@ -29,7 +29,7 @@ export default function Home() {
             >
               Websites
             </a>
-            ,
+            &
             <a
               className="inline-block px-2 py-0 font-bold bg-gray-100 dark:bg-zinc-700 dark:text-white mx-1"
               href="#"

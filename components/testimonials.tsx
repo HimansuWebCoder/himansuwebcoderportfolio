@@ -35,7 +35,7 @@ function Testimonials() {
     return (
         <div className="py-10 px-4 my-4   ">
             <SectionHeading className="mb-4" delay={1.2}>
-                People love my work
+                Trusted by Clients
             </SectionHeading>
             <div
                 className="flex gap-10  
