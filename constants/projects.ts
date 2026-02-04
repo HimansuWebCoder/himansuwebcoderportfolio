@@ -16,7 +16,7 @@ export const projects: Project[] = [
     title: 'Pihu Makeup Studio & Salon',
     description:
       'Developed a digital platform for Pihu Makeup Studio to showcase their premium beauty services and luxurious environment, enabling clients to explore and book appointments 24/7.',
-    image: '/pihu-makeup-studio-img.webp',
+    image: '/pms.webp',
     href: 'https://pihumakeupstudio.com/',
   },
   {
