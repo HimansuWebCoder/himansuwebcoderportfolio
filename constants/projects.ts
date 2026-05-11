@@ -38,6 +38,6 @@ export const projects: Project[] = [
     description:
       'Created an all-in-one digital platform for Achievers Institute to showcase their coaching programs, teaching quality, and facilities, helping students and parents explore and connect easily.',
     image: '/achievers-institute.webp',
-    href: 'https://achievers-institute.in/',
+    href: 'https://achievers-institute.vercel.app/
   },
 ]
