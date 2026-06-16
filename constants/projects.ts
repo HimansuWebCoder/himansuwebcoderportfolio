@@ -17,7 +17,7 @@ export const projects: Project[] = [
     description:
       'Developed a digital platform for Pihu Makeup Studio to showcase their premium beauty services and luxurious environment, enabling clients to explore and book appointments 24/7.',
     image: '/pms.webp',
-    href: 'https://pihumakeupstudio.com/',
+    href: 'https://pihumakeupstudio.in/',
   },
   {
     title: 'Mr. Kalakar Dance Studio',
